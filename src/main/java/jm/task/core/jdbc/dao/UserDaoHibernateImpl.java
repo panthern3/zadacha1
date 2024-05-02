@@ -12,7 +12,6 @@ import java.util.List;
 
 public class UserDaoHibernateImpl implements UserDao {
 
-    private Util util = new Util();
     public UserDaoHibernateImpl() {
 
     }

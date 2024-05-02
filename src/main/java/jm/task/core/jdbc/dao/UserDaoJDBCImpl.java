@@ -14,7 +14,6 @@ public class UserDaoJDBCImpl implements UserDao {
     public UserDaoJDBCImpl() {
 
     }
-    private Util util = new Util();
     @Override
     public void createUsersTable() {
         try {
